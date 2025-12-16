@@ -40,8 +40,6 @@
 ## 📫 Contact
 
 - 📧 Email: [juun0.han@gmail.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📝 Tech Blog: [Your Blog](https://yourblog.com)
 
 ---
 
@@ -52,5 +50,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
-
-⭐️ 함께 성장하고 싶습니다! 관심있는 프로젝트가 있다면 언제든 연락주세요.

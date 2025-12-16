@@ -22,9 +22,9 @@
 
 ## 💼 주요 관심 분야
 
-- 📊 **데이터 파이프라인 자동화** - Airflow를 활용한 워크플로우 오케스트레이션
-- 🚀 **ML 모델 서빙** - FastAPI 기반 실시간 추론 API 구축
-- ☁️ **클라우드 데이터 인프라** - AWS 환경에서의 데이터 처리 시스템 구축
+- 📊 Data Engineering
+- 🚀 Backend
+- ☁️ Cloud Infrastructure
 
 ---
 

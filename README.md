@@ -25,7 +25,6 @@
 - 📊 **데이터 파이프라인 자동화** - Airflow를 활용한 워크플로우 오케스트레이션
 - 🚀 **ML 모델 서빙** - FastAPI 기반 실시간 추론 API 구축
 - ☁️ **클라우드 데이터 인프라** - AWS 환경에서의 데이터 처리 시스템 구축
-- 🤖 **MLOps** - 모델 배포 및 모니터링 파이프라인
 
 ---
 
@@ -45,8 +44,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juun0-h&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juun0-h&layout=compact&theme=radical)
 
 ---
